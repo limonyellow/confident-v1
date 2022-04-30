@@ -1,8 +1,12 @@
 # Confident
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/confident?style=plastic)](https://github.com/limonyellow/confident)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/confident?style=plastic)](https://github.com/limonyellow/confident-v1)
 [![PyPI](https://img.shields.io/pypi/v/confident?style=plastic&color=%2334D058)](https://pypi.org/project/confident/)
-[![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/limonyellow/confident/Python%20package/main?style=plastic)](https://github.com/limonyellow/confident/actions)
-[![GitHub](https://img.shields.io/github/license/limonyellow/confident?style=plastic)](https://github.com/limonyellow/confident)
+[![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/limonyellow/confident-v1/Python%20package/main?style=plastic)](https://github.com/limonyellow/confident-v1/actions)
+[![GitHub](https://img.shields.io/github/license/limonyellow/confident-v1?style=plastic)](https://github.com/limonyellow/confident-v1)
+
+### **Version 2 with improved features and design is here:**
+- [Pypi](https://pypi.org/project/confident/)
+- [Github](https://github.com/limonyellow/confident)
 
 ---
 
